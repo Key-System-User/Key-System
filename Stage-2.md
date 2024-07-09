@@ -6,4 +6,4 @@ C# :
 
 C++ : 
 
-.lua : 
+.lua : https://raw.githubusercontent.com/Key-System-User/Key-System/main/Stage-3.md
